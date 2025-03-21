@@ -79,10 +79,6 @@ Initial evaluations show significant improvements in the model's mathematical re
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-[Insert your chosen license here]
-
 ## Acknowledgments
 
 - Magpie-Align for the dataset
